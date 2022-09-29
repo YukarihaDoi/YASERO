@@ -1,24 +1,27 @@
-# README
+##YASERO
+***
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+ ダイエットを頑張りたい女の子に向けた体重記録アプリ
 
-Things you may want to cover:
+ ___
+1. サイトテーマ
+イケメンキャラクターから応援、時に叱咤されながら体重を落とすアプリケーション
 
-* Ruby version
+2. テーマを選んだ理由
+グラフを使用した記録アプリを作成したいと考えたから。
 
-* System dependencies
+3. ターゲットユーザ
+- [x] ダイエットをする女性
+- [x] 運動をする女性
 
-* Configuration
+4. 主な利用シーン
+* 体重を記録数とき
+* 運動を始める時
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
